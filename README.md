@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-asa--ai.fr-6B2FA0?style=for-the-badge&logo=firefox&logoColor=white)](https://www.asa-ai.fr)
 [![Email](https://img.shields.io/badge/Contact-contact@asa--ai.fr-D6247A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@asa-ai.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ASA%20AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khetir-m-8b286b359)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ASA%20AI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asa-ai-101815430)
 
 </div>
 
@@ -63,3 +63,4 @@ I build and evaluate security for AI systems, and I automate the SOC around them
 📩 **contact@asa-ai.fr** · 🌐 **[asa-ai.fr](https://www.asa-ai.fr)**
 
 </div>
+
