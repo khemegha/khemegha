@@ -27,10 +27,11 @@ I build and evaluate security for AI systems, and I automate the SOC around them
 | 🔁 | **CI/CD pipeline security** — SAST/SCA, artifact signing, pipeline security |
 
 ## 🚀 Flagship projects
-- 🛰️ **ASA-AI-VoIP-Threat-Sentinel** — real-time threat detection for VoIP/SIP services.
+- 🛰️ **[ASA-AI-VoIP-Threat-Sentinel](https://github.com/khemegha/ASA-AI-VoIP-Threat-Sentinel)** — real-time threat detection for VoIP/SIP services.
+- 🛡️ **[ASA-AI VoIP Security Audit](https://github.com/khemegha/ASA-AI-VoIP-Audit)** — SIP/VoIP penetration testing (NIST SP 800-115) with branded reports.
 - 🧠 **ASA AI SOC Analyst** — AI agent for SOC automation (triage, correlation, response).
 - 🔐 **MCP Security** — hardening and evaluation of Model Context Protocol servers.
-- 🎓 **ASA AI Formation** — AI & VoIP security training.
+- 🎓 **[ASA AI Formation](https://github.com/khemegha/asa-ai-formation)** — AI & VoIP security training.
 
 ## 🧰 Stack & tools
 **AI Security:** PyRIT · Garak · NeMo Guardrails · Arize Phoenix · LangGraph · MCP
