@@ -14,6 +14,19 @@
 
 ---
 
+## 🆕 Observabilidad de agentes IA — *Sus agentes IA están hablando. ¿Los está escuchando?*
+
+Cada llamada, cada token, cada error, cada prompt bloqueado: **una vista en tiempo real de todo lo que hacen sus agentes IA en producción.** Rendimiento, costes, fiabilidad, eficiencia de la caché, satisfacción de los usuarios y decisiones de seguridad de ASA-AI-Guard, para todos sus agentes y modelos, en la nube o autoalojados.
+
+<p align="center"><a href="https://khemegha.github.io/khemegha/observability/"><img src="observability/img/obs_1_overview.jpg" alt="Panel de ASA AI Agent Observability" width="100%"></a></p>
+
+<p align="center">
+<a href="mailto:contact@asa-ai.fr?subject=Demo%20request%20%E2%80%93%20ASA%20AI%20Agent%20Observability"><img src="https://img.shields.io/badge/Solicitar%20una%20demo-D6247A?style=for-the-badge&logo=gmail&logoColor=white" alt="Solicitar una demo"></a>
+<a href="https://khemegha.github.io/khemegha/observability/"><img src="https://img.shields.io/badge/Ver%20la%20p%C3%A1gina%20completa-6B2FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver la página completa"></a>
+</p>
+
+---
+
 ## 🎯 En qué trabajo
 Diseño y evalúo la seguridad de los sistemas de IA, y automatizo el SOC. Seis ejes:
 
@@ -27,6 +40,7 @@ Diseño y evalúo la seguridad de los sistemas de IA, y automatizo el SOC. Seis 
 | 🔁 | **Seguridad de cadenas CI/CD** — SAST/SCA, firma de artefactos |
 
 ## 🚀 Proyectos destacados
+- 📈 **[ASA AI Agent Observability](https://khemegha.github.io/khemegha/observability/)** — monitorización en tiempo real de agentes IA: llamadas, latencia, tokens, errores, caché y decisiones del Guard.
 - 🛰️ **[ASA-AI-VoIP-Threat-Sentinel](https://github.com/khemegha/ASA-AI-VoIP-Threat-Sentinel)** — detección de amenazas VoIP/SIP en tiempo real.
 - 🛡️ **[Auditoría de seguridad VoIP](https://github.com/khemegha/ASA-AI-VoIP-Audit)** — test de intrusión SIP/VoIP (NIST SP 800-115) con informes branded.
 - 🧠 **ASA AI SOC Analyst** — agente de IA para automatización del SOC.

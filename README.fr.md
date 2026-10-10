@@ -14,6 +14,19 @@
 
 ---
 
+## 🆕 Observabilité des agents IA — *Vos agents IA vous parlent. Les écoutez-vous ?*
+
+Chaque appel, chaque token, chaque erreur, chaque prompt bloqué : **une vue en temps réel de tout ce que font vos agents IA en production.** Performance, coûts, fiabilité, efficacité du cache, satisfaction des utilisateurs et décisions de sécurité d'ASA-AI-Guard, pour tous vos agents et modèles, cloud ou auto-hébergés.
+
+<p align="center"><a href="https://khemegha.github.io/khemegha/observability/"><img src="observability/img/obs_1_overview.jpg" alt="Tableau de bord ASA AI Agent Observability" width="100%"></a></p>
+
+<p align="center">
+<a href="mailto:contact@asa-ai.fr?subject=Demo%20request%20%E2%80%93%20ASA%20AI%20Agent%20Observability"><img src="https://img.shields.io/badge/Demander%20une%20d%C3%A9mo-D6247A?style=for-the-badge&logo=gmail&logoColor=white" alt="Demander une démo"></a>
+<a href="https://khemegha.github.io/khemegha/observability/"><img src="https://img.shields.io/badge/Voir%20la%20page%20compl%C3%A8te-6B2FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Voir la page complète"></a>
+</p>
+
+---
+
 ## 🎯 Mes domaines
 Je conçois et j'évalue la sécurité des systèmes d'IA, et j'automatise le SOC autour. Six axes :
 
@@ -27,6 +40,7 @@ Je conçois et j'évalue la sécurité des systèmes d'IA, et j'automatise le SO
 | 🔁 | **Sécurité des chaînes CI/CD** — SAST/SCA, signature d'artefacts |
 
 ## 🚀 Projets phares
+- 📈 **[ASA AI Agent Observability](https://khemegha.github.io/khemegha/observability/)** — supervision en temps réel des agents IA : appels, latence, tokens, erreurs, cache et décisions du Guard.
 - 🛰️ **[ASA-AI-VoIP-Threat-Sentinel](https://github.com/khemegha/ASA-AI-VoIP-Threat-Sentinel)** — détection de menaces temps réel VoIP/SIP.
 - 🛡️ **[Audit de sécurité VoIP](https://github.com/khemegha/ASA-AI-VoIP-Audit)** — test d'intrusion SIP/VoIP (NIST SP 800-115) avec rapports branded.
 - 🧠 **ASA AI SOC Analyst** — agent IA d'automatisation du SOC.
