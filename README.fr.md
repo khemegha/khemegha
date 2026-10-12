@@ -25,6 +25,19 @@ Chaque appel, chaque token, chaque erreur, chaque prompt bloqué : **une vue en 
 <a href="https://khemegha.github.io/khemegha/observability/"><img src="https://img.shields.io/badge/Voir%20la%20page%20compl%C3%A8te-6B2FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Voir la page complète"></a>
 </p>
 
+<!-- DAILY-OBS-POST:START -->
+### 📌 Dernière publication · 2026-10-12 — Green dashboards, broken agents
+
+<p align="center"><a href="observability/posts/2026-10-12/index.md"><img src="observability/posts/2026-10-12/obs_2026-10-12_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+
+La latence et la disponibilité peuvent sembler saines pendant que vos agents IA échouent en silence : sur cette fenêtre, 8,8 % des appels au modèle ont échoué et notre Guard a bloqué 8 prompts.<br>
+ASA AI Agent Observability suit chaque appel, jeton, erreur et décision du Guard, par agent et par modèle, dans une seule vue en direct.<br>
+Votre équipe voit les erreurs, la consommation de jetons et les attaques bloquées avant vos utilisateurs.<br>
+Une démo en direct ? **contact@asa-ai.fr**
+
+[Toutes les publications →](observability/posts/)
+<!-- DAILY-OBS-POST:END -->
+
 ---
 
 ## 🎯 Mes domaines

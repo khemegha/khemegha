@@ -25,6 +25,19 @@ Cada llamada, cada token, cada error, cada prompt bloqueado: **una vista en tiem
 <a href="https://khemegha.github.io/khemegha/observability/"><img src="https://img.shields.io/badge/Ver%20la%20p%C3%A1gina%20completa-6B2FA0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver la página completa"></a>
 </p>
 
+<!-- DAILY-OBS-POST:START -->
+### 📌 Última publicación · 2026-10-12 — Green dashboards, broken agents
+
+<p align="center"><a href="observability/posts/2026-10-12/index.md"><img src="observability/posts/2026-10-12/obs_2026-10-12_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+
+La latencia y la disponibilidad pueden parecer correctas mientras sus agentes IA fallan en silencio: en esta ventana, el 8,8 % de las llamadas al modelo fallaron y nuestro Guard bloqueó 8 prompts.<br>
+ASA AI Agent Observability sigue cada llamada, token, error y decisión del Guard, por agente y por modelo, en una sola vista en directo.<br>
+Su equipo ve los errores, el consumo de tokens y los ataques bloqueados antes que sus usuarios.<br>
+¿Una demo en directo? **contact@asa-ai.fr**
+
+[Todas las publicaciones →](observability/posts/)
+<!-- DAILY-OBS-POST:END -->
+
 ---
 
 ## 🎯 En qué trabajo
