@@ -35,7 +35,7 @@ ASA AI Agent Observability suit chaque appel, jeton, erreur et décision du Guar
 Votre équipe voit les erreurs, la consommation de jetons et les attaques bloquées avant vos utilisateurs.<br>
 Une démo en direct ? **contact@asa-ai.fr**
 
-[Toutes les publications →](observability/posts/)
+[Lire le post complet →](observability/posts/2026-10-12/index.md) · [Toutes les publications →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---

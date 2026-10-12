@@ -35,7 +35,7 @@ ASA AI Agent Observability sigue cada llamada, token, error y decisión del Guar
 Su equipo ve los errores, el consumo de tokens y los ataques bloqueados antes que sus usuarios.<br>
 ¿Una demo en directo? **contact@asa-ai.fr**
 
-[Todas las publicaciones →](observability/posts/)
+[Leer la publicación completa →](observability/posts/2026-10-12/index.md) · [Todas las publicaciones →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---

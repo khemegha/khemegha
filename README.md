@@ -35,7 +35,7 @@ ASA AI Agent Observability tracks every call, token, error and Guard decision, p
 Your team sees errors, token spend and blocked attacks before your users do.<br>
 Want a live demo? **contact@asa-ai.fr**
 
-[All updates →](observability/posts/)
+[Read the full post →](observability/posts/2026-10-12/index.md) · [All updates →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---
