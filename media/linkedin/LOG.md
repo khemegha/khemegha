@@ -1,0 +1,1 @@
+- 2026-10-13 07h00 AI SOC Analyst — VPN GlobalProtect exploité (CVE-2026-0257, Qilin) : session suspecte qualifiée et confinée
