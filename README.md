@@ -26,16 +26,16 @@ Every call, every token, every error, every blocked prompt: **one live view of e
 </p>
 
 <!-- DAILY-OBS-POST:START -->
-### 📌 Latest update · 2026-10-12 — Green dashboards, broken agents
+### 📌 Latest update · 2026-10-13 — When traffic surges, averages lie
 
-<p align="center"><a href="observability/posts/2026-10-12/index.md"><img src="observability/posts/2026-10-12/obs_2026-10-12_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+<p align="center"><a href="observability/posts/2026-10-13/index.md"><img src="observability/posts/2026-10-13/obs_2026-10-13_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
 
-Latency and uptime can look healthy while AI agents fail silently: in this window, 8.8% of model calls errored and our Guard blocked 8 prompts.<br>
-ASA AI Agent Observability tracks every call, token, error and Guard decision, per agent and per model, in one live view.<br>
-Your team sees errors, token spend and blocked attacks before your users do.<br>
+In one hour, traffic on our agents climbed from almost nothing to more than 600 requests per time slot, and the average latency read 59,877 ms, a single number that hides peaks close to 300,000 ms.<br>
+ASA AI Agent Observability plots requests, errors, latency, tokens and active users on the same timeline, per agent and per model, so a surge and its side effects show up together.<br>
+Your team sees which model slows down when load arrives, and who is driving it, before an average turns into an incident.<br>
 Want a live demo? **contact@asa-ai.fr**
 
-[Read the full post →](observability/posts/2026-10-12/index.md) · [All updates →](observability/posts/)
+[Read the full post →](observability/posts/2026-10-13/index.md) · [All updates →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---

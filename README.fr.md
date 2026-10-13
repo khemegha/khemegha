@@ -26,16 +26,16 @@ Chaque appel, chaque token, chaque erreur, chaque prompt bloqué : **une vue en 
 </p>
 
 <!-- DAILY-OBS-POST:START -->
-### 📌 Dernière publication · 2026-10-12 — Green dashboards, broken agents
+### 📌 Dernière publication · 2026-10-13 — When traffic surges, averages lie
 
-<p align="center"><a href="observability/posts/2026-10-12/index.md"><img src="observability/posts/2026-10-12/obs_2026-10-12_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+<p align="center"><a href="observability/posts/2026-10-13/index.md"><img src="observability/posts/2026-10-13/obs_2026-10-13_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
 
-La latence et la disponibilité peuvent sembler saines pendant que vos agents IA échouent en silence : sur cette fenêtre, 8,8 % des appels au modèle ont échoué et notre Guard a bloqué 8 prompts.<br>
-ASA AI Agent Observability suit chaque appel, jeton, erreur et décision du Guard, par agent et par modèle, dans une seule vue en direct.<br>
-Votre équipe voit les erreurs, la consommation de jetons et les attaques bloquées avant vos utilisateurs.<br>
+En une heure, le trafic sur nos agents est passé de presque rien à plus de 600 requêtes par tranche de temps, et la latence moyenne affichait 59 877 ms : un seul chiffre qui masque des pics proches de 300 000 ms.<br>
+ASA AI Agent Observability trace requêtes, erreurs, latence, jetons et utilisateurs actifs sur une même chronologie, par agent et par modèle, pour qu'un pic de charge et ses effets apparaissent ensemble.<br>
+Votre équipe voit quel modèle ralentit quand la charge arrive, et qui la génère, avant qu'une moyenne ne devienne un incident.<br>
 Une démo en direct ? **contact@asa-ai.fr**
 
-[Lire le post complet →](observability/posts/2026-10-12/index.md) · [Toutes les publications →](observability/posts/)
+[Lire le post complet →](observability/posts/2026-10-13/index.md) · [Toutes les publications →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---
