@@ -1,1 +1,2 @@
+- 2026-10-13 17h00 SENTINEL — Serveurs MCP, nouvelle surface d'attaque (1re faille MCP au KEV CISA, LiteLLM)
 - 2026-10-13 07h00 AI SOC Analyst — VPN GlobalProtect exploité (CVE-2026-0257, Qilin) : session suspecte qualifiée et confinée
