@@ -26,16 +26,16 @@ Every call, every token, every error, every blocked prompt: **one live view of e
 </p>
 
 <!-- DAILY-OBS-POST:START -->
-### 📌 Latest update · 2026-10-13 — When traffic surges, averages lie
+### 📌 Latest update · 2026-10-14 — One model can drag the whole fleet
 
-<p align="center"><a href="observability/posts/2026-10-13/index.md"><img src="observability/posts/2026-10-13/obs_2026-10-13_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+<p align="center"><a href="observability/posts/2026-10-14/index.md"><img src="observability/posts/2026-10-14/obs_2026-10-14_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
 
-In one hour, traffic on our agents climbed from almost nothing to more than 600 requests per time slot, and the average latency read 59,877 ms, a single number that hides peaks close to 300,000 ms.<br>
-ASA AI Agent Observability plots requests, errors, latency, tokens and active users on the same timeline, per agent and per model, so a surge and its side effects show up together.<br>
-Your team sees which model slows down when load arrives, and who is driving it, before an average turns into an incident.<br>
+A median latency of 4.6 s looks fine until you see the 95th percentile at 31.1 s, and a latency curve where a single model spikes while the others stay flat.<br>
+ASA AI Agent Observability breaks invocations, latency, tokens and errors down per model, across all our agents, so one misbehaving model never hides inside a fleet-wide number.<br>
+Your team knows which model to tune, swap or throttle, instead of chasing a vague "the agents are slow".<br>
 Want a live demo? **contact@asa-ai.fr**
 
-[Read the full post →](observability/posts/2026-10-13/index.md) · [All updates →](observability/posts/)
+[Read the full post →](observability/posts/2026-10-14/index.md) · [All updates →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---

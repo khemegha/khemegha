@@ -26,16 +26,16 @@ Cada llamada, cada token, cada error, cada prompt bloqueado: **una vista en tiem
 </p>
 
 <!-- DAILY-OBS-POST:START -->
-### 📌 Última publicación · 2026-10-13 — When traffic surges, averages lie
+### 📌 Última publicación · 2026-10-14 — One model can drag the whole fleet
 
-<p align="center"><a href="observability/posts/2026-10-13/index.md"><img src="observability/posts/2026-10-13/obs_2026-10-13_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+<p align="center"><a href="observability/posts/2026-10-14/index.md"><img src="observability/posts/2026-10-14/obs_2026-10-14_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
 
-En una hora, el tráfico de nuestros agentes pasó de casi nada a más de 600 solicitudes por franja de tiempo, y la latencia media marcaba 59 877 ms: una sola cifra que oculta picos cercanos a 300 000 ms.<br>
-ASA AI Agent Observability muestra solicitudes, errores, latencia, tokens y usuarios activos en una misma línea temporal, por agente y por modelo, para que un pico de carga y sus efectos aparezcan juntos.<br>
-Su equipo ve qué modelo se ralentiza cuando llega la carga, y quién la genera, antes de que una media se convierta en un incidente.<br>
+Una latencia mediana de 4,6 s parece correcta, hasta que se ve el percentil 95 en 31,1 s y una curva de latencia en la que un solo modelo se dispara mientras los demás se mantienen planos.<br>
+ASA AI Agent Observability desglosa invocaciones, latencia, tokens y errores por modelo, en todos nuestros agentes, para que un modelo problemático nunca se esconda en una cifra global.<br>
+Su equipo sabe qué modelo ajustar, sustituir o limitar, en lugar de perseguir un vago «los agentes van lentos».<br>
 ¿Una demo en directo? **contact@asa-ai.fr**
 
-[Leer la publicación completa →](observability/posts/2026-10-13/index.md) · [Todas las publicaciones →](observability/posts/)
+[Leer la publicación completa →](observability/posts/2026-10-14/index.md) · [Todas las publicaciones →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---

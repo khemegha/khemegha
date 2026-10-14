@@ -26,16 +26,16 @@ Chaque appel, chaque token, chaque erreur, chaque prompt bloqué : **une vue en 
 </p>
 
 <!-- DAILY-OBS-POST:START -->
-### 📌 Dernière publication · 2026-10-13 — When traffic surges, averages lie
+### 📌 Dernière publication · 2026-10-14 — One model can drag the whole fleet
 
-<p align="center"><a href="observability/posts/2026-10-13/index.md"><img src="observability/posts/2026-10-13/obs_2026-10-13_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
+<p align="center"><a href="observability/posts/2026-10-14/index.md"><img src="observability/posts/2026-10-14/obs_2026-10-14_1.jpg" alt="ASA AI Agent Observability" width="100%"></a></p>
 
-En une heure, le trafic sur nos agents est passé de presque rien à plus de 600 requêtes par tranche de temps, et la latence moyenne affichait 59 877 ms : un seul chiffre qui masque des pics proches de 300 000 ms.<br>
-ASA AI Agent Observability trace requêtes, erreurs, latence, jetons et utilisateurs actifs sur une même chronologie, par agent et par modèle, pour qu'un pic de charge et ses effets apparaissent ensemble.<br>
-Votre équipe voit quel modèle ralentit quand la charge arrive, et qui la génère, avant qu'une moyenne ne devienne un incident.<br>
+Une latence médiane de 4,6 s semble correcte, jusqu'à ce qu'on voie le 95e centile à 31,1 s et une courbe de latence où un seul modèle s'envole pendant que les autres restent plats.<br>
+ASA AI Agent Observability ventile invocations, latence, jetons et erreurs par modèle, sur l'ensemble de nos agents, pour qu'un modèle défaillant ne se cache jamais dans un chiffre global.<br>
+Votre équipe sait quel modèle ajuster, remplacer ou brider, au lieu de courir après un vague « les agents sont lents ».<br>
 Une démo en direct ? **contact@asa-ai.fr**
 
-[Lire le post complet →](observability/posts/2026-10-13/index.md) · [Toutes les publications →](observability/posts/)
+[Lire le post complet →](observability/posts/2026-10-14/index.md) · [Toutes les publications →](observability/posts/)
 <!-- DAILY-OBS-POST:END -->
 
 ---
